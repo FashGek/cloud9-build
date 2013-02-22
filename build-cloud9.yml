@@ -8,7 +8,7 @@
 
   vars:
     path: '/tmp/cloud9ide-build'
-    version: 'hide-password'
+    version: 'trainingwheels'
     repo: 'https://github.com/marktheunissen/cloud9.git'
 
   tasks:
