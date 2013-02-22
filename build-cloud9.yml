@@ -7,7 +7,7 @@
   gather_facts: False
 
   vars:
-    path: '/tmp/cloud9ide-build'
+    path: './cloud9-build'
     version: 'trainingwheels'
     repo: 'https://github.com/marktheunissen/cloud9.git'
 
